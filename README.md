@@ -1,6 +1,12 @@
 
 ## Implementation of [Unifying Deep Local and Global Features for Image Search](https://arxiv.org/abs/2001.05027)
 
+### Data
+
+Used small subset of ImageNet - [Imagewoof](https://github.com/fastai/imagenette), dataset with 10 classes of dogs.
+
+
+### Training process
 
 From paper above it's important to train model in two steps - training global features & training local features.
 
