@@ -12,7 +12,7 @@ Global features produce embedding like this:
 
 (Big black points - class centroids)
 
-For training local features used attention, here are few examples:
+For training local features used attention, here are few examples of attention maps:
 
 <p align="center" float="left">
     <img src="misc/attention_heatmap_0.png" width="250">
